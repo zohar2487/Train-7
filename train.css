@@ -1,0 +1,10 @@
+.jumbotron{
+    color:  black;;
+    text-align: center;
+    background-color: coral;
+    background-image: url(/download.png);
+    background-position: bottom;
+}
+body{
+    background-color: bisque;
+}
